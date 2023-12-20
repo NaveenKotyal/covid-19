@@ -1,3 +1,5 @@
+#Covid-19
+
 This data science project aims to predict the spread of COVID-19 using machine learning techniques. Leveraging historical data on infection rates, testing, and other relevant factors, the project employs a predictive model to estimate future trends in the spread of the virus. By analyzing and forecasting COVID-19 cases, this project contributes to understanding and managing the impact of the pandemic.
 
 Key Features:
